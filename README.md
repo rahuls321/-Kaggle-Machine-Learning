@@ -1,6 +1,7 @@
 # -Kaggle-Machine-Learning
-Titanic Disaster Problem
-OVERVIEW
+Titanic Disaster Problem  ||   
+/n OVERVIEW
+
 Start here if...
 
 You're new to data science and machine learning, or looking for a simple intro to the Kaggle prediction competitions.
